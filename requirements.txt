@@ -6,4 +6,5 @@ python-whois
 Flask-SQLAlchemy
 Flask-Login
 flask-wtf
+flask-restful
 honcho
